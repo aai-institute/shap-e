@@ -16,6 +16,9 @@ setup(
         "shap_e.rendering.blender",
         "shap_e.rendering.raycast",
         "shap_e.util",
+        "ipykernel",
+        "ipywidgets",
+        "pyyaml"
     ],
     install_requires=[
         "filelock",
